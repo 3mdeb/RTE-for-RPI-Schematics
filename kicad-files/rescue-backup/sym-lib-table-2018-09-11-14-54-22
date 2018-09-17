@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name rte_rpi-rescue)(type Legacy)(uri ${KIPRJMOD}/rte_rpi-rescue.lib)(options "")(descr ""))
-)
