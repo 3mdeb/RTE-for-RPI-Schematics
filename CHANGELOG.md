@@ -62,6 +62,7 @@ Added:
 * `RoHS` logo
 * `Crossed wheelie bin` logo
 * `Open Hardware` logo
+* `
 
 Modified:
 
