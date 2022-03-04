@@ -9,4 +9,4 @@ If you want to read more about this project, here are some useful links:
   - [RteCtrl](https://github.com/3mdeb/RteCtrl) - binary for power management on
   board ([MIT license](https://github.com/3mdeb/RteCtrl/blob/master/LICENSE))
 * Datasheet (under CC BY-SA 4.0 International License):
-  - [RTE RPi v0.1.2 datasheet](https://cloud.3mdeb.com/index.php/s/pjMebMe8xKtTxML)
+  - [RTE RPi v0.1.2 datasheet](https://cloud.3mdeb.com/index.php/s/cM5Mi4w2mjKNpBY)
